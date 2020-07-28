@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![bg](https://raw.githubusercontent.com/AL0nE1y/Images-hosting/master/images/20200501234328.jpg)
 <!--
 **AL0nE1y/AL0nE1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
